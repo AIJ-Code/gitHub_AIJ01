@@ -3,9 +3,9 @@
 -This is feature a branch
 -The newly added file line
 
-This is simple  line for testing push
 
-This is bad code
-For Fun
+I added some good  line
+Line 1
+Line 2
 
 print ();
