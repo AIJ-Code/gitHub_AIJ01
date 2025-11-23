@@ -3,4 +3,7 @@
 -This is feature a branch
 -The newly added file line
 
-This is simple  line for testing push
+I added some good  line
+Line 1
+Line 2
+
